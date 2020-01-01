@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">alarmate</string>
+    <string name="default_web_client_id">610359492537-a47en925h3ej12v8ed2ag1qf431bfim1.apps.googleusercontent.com</string>
+    <string name="btn_google_login">Google 로그인</string>
+    <string name="btn_kakao_login">카카오톡 로그인</string>
+    <string name="btn_naver_login">네이버 로그인</string>
+    <string name="kakao_app_key">96857906b7de0b2e1621ab7593423240</string>
+</resources>
